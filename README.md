@@ -14,8 +14,9 @@
  Technology Stack:
 
 
-<img width="70" alt="image" src="https://user-images.githubusercontent.com/103526896/175511142-a439512a-3e8b-4ed8-9d30-41f7fecb5157.png">
- ![image](https://user-images.githubusercontent.com/103526896/175510482-7768fad8-e73f-46e9-8f0b-206dfccb1f80.png) ![image](https://user-images.githubusercontent.com/103526896/175510552-91c3b620-0fed-4e99-81f6-c1dc23cae015.png) ![image](https://user-images.githubusercontent.com/103526896/175510647-683329c0-2f47-419a-b4a7-c082b2480b37.png) ![image](https://user-images.githubusercontent.com/103526896/175510696-01ee6910-3939-4a57-822c-8db88a3f910a.png) ![image](https://user-images.githubusercontent.com/103526896/175510777-b08c8dee-2310-439b-88c7-f1f7c76c88b3.png) ![image](https://user-images.githubusercontent.com/103526896/175510827-78e0b43f-ddb3-47c8-8de6-20e84ad1dfe2.png) ![image](https://user-images.githubusercontent.com/103526896/175510863-17e113ad-c37a-40c8-a887-78e928022f08.png)
+<img width="20" alt="image" src="https://user-images.githubusercontent.com/103526896/175511142-a439512a-3e8b-4ed8-9d30-41f7fecb5157.png"> <img width="20" alt="image" src="https://user-images.githubusercontent.com/103526896/175511530-132a0746-1964-4420-b645-03b757f5b8e5.png">
+
+ 
 
 
 
