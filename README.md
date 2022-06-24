@@ -1,4 +1,6 @@
- Hi there 👋
+ Hi there 👋 I am Lalana Nagaraj
+ 
+ <h1> I am a student, pursuing my B.E under Computer Science branch </h1>
 
  🔭 I’m currently working on Arduino based project.
  🌱 I’m currently learning about ML & DL models.
