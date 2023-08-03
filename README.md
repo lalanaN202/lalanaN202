@@ -1,6 +1,6 @@
  Hi there 👋 I am Lalana Nagaraj
  
- <h1> I am a young Cloud Engineer, currently working @ Thomson Reuters </h1>
+ <h1> I am a young Cloud Engineer, working @ Thomson Reuters </h1>
 
  -🔭 I’m currently working on end-to-end Data models.
  
